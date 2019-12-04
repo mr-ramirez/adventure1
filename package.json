@@ -1,0 +1,29 @@
+{
+  "name": "adventure1",
+  "version": "1.0.0",
+  "description": "A web application build to display several locations on a map and display specific information for each location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-ramirez/adventure1.git"
+  },
+  "author": "Jacob Ramirez <mr.jacob.ramirez@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-ramirez/adventure1/issues"
+  },
+  "homepage": "https://github.com/mr-ramirez/adventure1#readme",
+  "dependencies": {
+    "next": "^9.1.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.14",
+    "@types/react": "^16.9.14",
+    "typescript": "^3.7.2"
+  }
+}
